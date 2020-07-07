@@ -1,0 +1,3556 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [],
+                  "height": 0,
+                  "size": 1,
+                  "value": {
+                    "date": "2020-05-22 15:21:10",
+                    "temperature": 22.16
+                  },
+                  "isLeaf": true
+                },
+                {
+                  "children": [],
+                  "height": 0,
+                  "size": 1,
+                  "value": {
+                    "date": "2020-05-22 15:21:09",
+                    "temperature": 22.13
+                  },
+                  "isLeaf": true
+                }
+              ],
+              "height": 1000.00000045,
+              "size": 2,
+              "value": -1,
+              "isLeaf": false
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "height": 0,
+                      "size": 1,
+                      "value": {
+                        "date": "2020-05-22 15:21:12",
+                        "temperature": 17.42
+                      },
+                      "isLeaf": true
+                    },
+                    {
+                      "children": [],
+                      "height": 0,
+                      "size": 1,
+                      "value": {
+                        "date": "2020-05-22 15:21:11",
+                        "temperature": 18.05
+                      },
+                      "isLeaf": true
+                    }
+                  ],
+                  "height": 1000.0001984499803,
+                  "size": 2,
+                  "value": -1,
+                  "isLeaf": false
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "height": 0,
+                      "size": 1,
+                      "value": {
+                        "date": "2020-05-22 15:21:14",
+                        "temperature": 16.11
+                      },
+                      "isLeaf": true
+                    },
+                    {
+                      "children": [],
+                      "height": 0,
+                      "size": 1,
+                      "value": {
+                        "date": "2020-05-22 15:21:13",
+                        "temperature": 26.09
+                      },
+                      "isLeaf": true
+                    }
+                  ],
+                  "height": 1000.0497989600318,
+                  "size": 2,
+                  "value": -1,
+                  "isLeaf": false
+                }
+              ],
+              "height": 3000.002401479992,
+              "size": 4,
+              "value": -1,
+              "isLeaf": false
+            }
+          ],
+          "height": 5666.660751918939,
+          "size": 6,
+          "value": -1,
+          "isLeaf": false
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-25 13:45:25",
+                                "temperature": 17.99
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-25 13:45:24",
+                                "temperature": 17.33
+                              },
+                              "isLeaf": true
+                            }
+                          ],
+                          "height": 1000.0002177999762,
+                          "size": 2,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-25 13:45:23",
+                                "temperature": 16.08
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-25 13:45:22",
+                                "temperature": 13.88
+                              },
+                              "isLeaf": true
+                            }
+                          ],
+                          "height": 1000.0024199970718,
+                          "size": 2,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 3000.0024232244514,
+                      "size": 4,
+                      "value": -1,
+                      "isLeaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-25 13:45:27",
+                                "temperature": 28.55
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-25 13:45:26",
+                                "temperature": 19.64
+                              },
+                              "isLeaf": true
+                            }
+                          ],
+                          "height": 1000.0396932622225,
+                          "size": 2,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-25 13:45:28",
+                                "temperature": 18.39
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:45:29",
+                                    "temperature": 16.03
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:45:29",
+                                        "temperature": 19.16
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:45:29",
+                                        "temperature": 17.63
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1.5300000000000011,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 2.643333333333331,
+                              "size": 3,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 1498.958351689685,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 4832.3116186029565,
+                      "size": 6,
+                      "value": -1,
+                      "isLeaf": false
+                    }
+                  ],
+                  "height": 15665.82509777634,
+                  "size": 10,
+                  "value": -1,
+                  "isLeaf": false
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-25 13:45:18",
+                                "temperature": 19.51
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-25 13:45:17",
+                                "temperature": 16.19
+                              },
+                              "isLeaf": true
+                            }
+                          ],
+                          "height": 1000.0055111848135,
+                          "size": 2,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:45:19",
+                                    "temperature": 14.34
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:45:19",
+                                        "temperature": 22.3
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:45:19",
+                                        "temperature": 22.28
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 0.019999999999999574,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 10.593333333333335,
+                              "size": 3,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:45:21",
+                                    "temperature": 18.18
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:45:20",
+                                    "temperature": 20.22
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0020807978351,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 2995.766900001435,
+                          "size": 5,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 4141.0423097292105,
+                      "size": 7,
+                      "value": -1,
+                      "isLeaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-25 13:45:13",
+                                "temperature": 18.23
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-25 13:45:12",
+                                "temperature": 22.45
+                              },
+                              "isLeaf": true
+                            }
+                          ],
+                          "height": 1000.0089041603579,
+                          "size": 2,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-25 13:45:16",
+                                "temperature": 22.84
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:45:15",
+                                    "temperature": 21.58
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:45:14",
+                                    "temperature": 21.97
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0000760499971,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 1666.6672966664514,
+                          "size": 3,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 4333.333126087466,
+                      "size": 5,
+                      "value": -1,
+                      "isLeaf": false
+                    }
+                  ],
+                  "height": 20688.579449800163,
+                  "size": 12,
+                  "value": -1,
+                  "isLeaf": false
+                }
+              ],
+              "height": 68801.11131853405,
+              "size": 22,
+              "value": -1,
+              "isLeaf": false
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-25 13:44:30",
+                                "temperature": 13.65
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:32",
+                                    "temperature": 15.69
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:31",
+                                    "temperature": 17.11
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0010081994917,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 1666.6710147213792,
+                          "size": 3,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:36",
+                                    "temperature": 18.44
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:35",
+                                    "temperature": 17.43
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.00051004987,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:34",
+                                    "temperature": 21.02
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:33",
+                                    "temperature": 17.93
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0047740386043,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 3000.0014649450345,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 8333.335137387096,
+                      "size": 7,
+                      "value": -1,
+                      "isLeaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:45",
+                                    "temperature": 22.12
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:44",
+                                    "temperature": 20.46
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0013777990508,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:43",
+                                    "temperature": 18.33
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:42",
+                                    "temperature": 21.18
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0040612417532,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 3000.0003486475284,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:41",
+                                    "temperature": 15.66
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:40",
+                                    "temperature": 15.09
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0001624499868,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:44:39",
+                                        "temperature": 21.77
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [],
+                                          "height": 0,
+                                          "size": 1,
+                                          "value": {
+                                            "date": "2020-05-25 13:44:39",
+                                            "temperature": 17.22
+                                          },
+                                          "isLeaf": true
+                                        },
+                                        {
+                                          "children": [],
+                                          "height": 0,
+                                          "size": 1,
+                                          "value": {
+                                            "date": "2020-05-25 13:44:39",
+                                            "temperature": 15.07
+                                          },
+                                          "isLeaf": true
+                                        }
+                                      ],
+                                      "height": 2.1499999999999986,
+                                      "size": 2,
+                                      "value": -1,
+                                      "isLeaf": false
+                                    }
+                                  ],
+                                  "height": 6.783333333333334,
+                                  "size": 3,
+                                  "value": -1,
+                                  "isLeaf": false
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:44:38",
+                                        "temperature": 16.19
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:44:37",
+                                        "temperature": 21.88
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0161879189757,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 2996.4304545702835,
+                              "size": 5,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 4141.333455842758,
+                          "size": 7,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 16401.205305489075,
+                      "size": 11,
+                      "value": -1,
+                      "isLeaf": false
+                    }
+                  ],
+                  "height": 43675.80760602402,
+                  "size": 18,
+                  "value": -1,
+                  "isLeaf": false
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:50",
+                                    "temperature": 12.41
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:44:49",
+                                        "temperature": 16.78
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [],
+                                          "height": 0,
+                                          "size": 1,
+                                          "value": {
+                                            "date": "2020-05-25 13:44:49",
+                                            "temperature": 22.78
+                                          },
+                                          "isLeaf": true
+                                        },
+                                        {
+                                          "children": [],
+                                          "height": 0,
+                                          "size": 1,
+                                          "value": {
+                                            "date": "2020-05-25 13:44:49",
+                                            "temperature": 26.18
+                                          },
+                                          "isLeaf": true
+                                        }
+                                      ],
+                                      "height": 3.3999999999999986,
+                                      "size": 2,
+                                      "value": -1,
+                                      "isLeaf": false
+                                    }
+                                  ],
+                                  "height": 9.133333333333333,
+                                  "size": 3,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 1496.945725349298,
+                              "size": 4,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:46",
+                                    "temperature": 10.8
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:44:48",
+                                        "temperature": 16.46
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:44:47",
+                                        "temperature": 21.54
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0129031167548,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 1666.7061529750329,
+                              "size": 3,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 5543.57417500557,
+                          "size": 7,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:55",
+                                    "temperature": 20.96
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:44:57",
+                                        "temperature": 21.19
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:44:56",
+                                        "temperature": 24.71
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0061951808099,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 1666.6692979065838,
+                              "size": 3,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:44:54",
+                                        "temperature": 18.05
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:44:53",
+                                        "temperature": 18.45
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0000799999968,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:44:52",
+                                        "temperature": 20.94
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:44:51",
+                                        "temperature": 24.32
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0057121836854,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 3000.0072811173577,
+                              "size": 4,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 8333.331268723085,
+                          "size": 7,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 27140.140728859613,
+                      "size": 14,
+                      "value": -1,
+                      "isLeaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:45:06",
+                                    "temperature": 24.24
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:45:08",
+                                        "temperature": 17.93
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:45:07",
+                                        "temperature": 19.32
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0009660495334,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 1666.6810494014799,
+                              "size": 3,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:45:09",
+                                        "temperature": 24.76
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [],
+                                          "height": 0,
+                                          "size": 1,
+                                          "value": {
+                                            "date": "2020-05-25 13:45:09",
+                                            "temperature": 20.54
+                                          },
+                                          "isLeaf": true
+                                        },
+                                        {
+                                          "children": [],
+                                          "height": 0,
+                                          "size": 1,
+                                          "value": {
+                                            "date": "2020-05-25 13:45:09",
+                                            "temperature": 22.1
+                                          },
+                                          "isLeaf": true
+                                        }
+                                      ],
+                                      "height": 1.5600000000000023,
+                                      "size": 2,
+                                      "value": -1,
+                                      "isLeaf": false
+                                    }
+                                  ],
+                                  "height": 4.066666666666667,
+                                  "size": 3,
+                                  "value": -1,
+                                  "isLeaf": false
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:45:11",
+                                        "temperature": 16.18
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:45:10",
+                                        "temperature": 20.65
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.009990400096,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 2997.759907614982,
+                              "size": 5,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 6582.0650815547015,
+                          "size": 8,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-25 13:44:58",
+                                    "temperature": 16.78
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:45:00",
+                                        "temperature": 20.02
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [],
+                                          "height": 0,
+                                          "size": 1,
+                                          "value": {
+                                            "date": "2020-05-25 13:44:59",
+                                            "temperature": 25.97
+                                          },
+                                          "isLeaf": true
+                                        },
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [],
+                                              "height": 0,
+                                              "size": 1,
+                                              "value": {
+                                                "date": "2020-05-25 13:44:59",
+                                                "temperature": 16.2
+                                              },
+                                              "isLeaf": true
+                                            },
+                                            {
+                                              "children": [],
+                                              "height": 0,
+                                              "size": 1,
+                                              "value": {
+                                                "date": "2020-05-25 13:44:59",
+                                                "temperature": 19.05
+                                              },
+                                              "isLeaf": true
+                                            }
+                                          ],
+                                          "height": 2.8500000000000014,
+                                          "size": 2,
+                                          "value": -1,
+                                          "isLeaf": false
+                                        }
+                                      ],
+                                      "height": 10.176666666666664,
+                                      "size": 3,
+                                      "value": -1,
+                                      "isLeaf": false
+                                    }
+                                  ],
+                                  "height": 1496.7560671916374,
+                                  "size": 4,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 1698.0624917096904,
+                              "size": 5,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:45:02",
+                                        "temperature": 22.93
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:45:01",
+                                        "temperature": 24.21
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0008191996645,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-25 13:45:03",
+                                        "temperature": 19.81
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [],
+                                          "height": 0,
+                                          "size": 1,
+                                          "value": {
+                                            "date": "2020-05-25 13:45:05",
+                                            "temperature": 20.45
+                                          },
+                                          "isLeaf": true
+                                        },
+                                        {
+                                          "children": [],
+                                          "height": 0,
+                                          "size": 1,
+                                          "value": {
+                                            "date": "2020-05-25 13:45:04",
+                                            "temperature": 22.86
+                                          },
+                                          "isLeaf": true
+                                        }
+                                      ],
+                                      "height": 1000.0029040457832,
+                                      "size": 2,
+                                      "value": -1,
+                                      "isLeaf": false
+                                    }
+                                  ],
+                                  "height": 1666.6688677441923,
+                                  "size": 3,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 4333.335921533565,
+                              "size": 5,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 14396.08980971254,
+                          "size": 10,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 49035.955475584706,
+                      "size": 18,
+                      "value": -1,
+                      "isLeaf": false
+                    }
+                  ],
+                  "height": 140438.53927644616,
+                  "size": 32,
+                  "value": -1,
+                  "isLeaf": false
+                }
+              ],
+              "height": 323188.2386722377,
+              "size": 50,
+              "value": -1,
+              "isLeaf": false
+            }
+          ],
+          "height": 613261.4430215091,
+          "size": 72,
+          "value": -1,
+          "isLeaf": false
+        }
+      ],
+      "height": 2807089038.235078,
+      "size": 78,
+      "value": -1,
+      "isLeaf": false
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-14 13:44:55",
+                                "temperature": 18.33
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-14 13:44:54",
+                                "temperature": 17.03
+                              },
+                              "isLeaf": true
+                            }
+                          ],
+                          "height": 1000.0008449996429,
+                          "size": 2,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-14 13:44:58",
+                                "temperature": 24.14
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:57",
+                                    "temperature": 16.09
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:56",
+                                    "temperature": 22.04
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0177010933356,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 1666.6831017854165,
+                          "size": 3,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 4333.32977333937,
+                      "size": 5,
+                      "value": -1,
+                      "isLeaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-14 13:44:53",
+                                "temperature": 22.04
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:52",
+                                    "temperature": 15.83
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:51",
+                                    "temperature": 21.66
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0169943055968,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 1666.6738805408706,
+                          "size": 3,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:50",
+                                    "temperature": 17.85
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:49",
+                                    "temperature": 17.37
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0001151999934,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:48",
+                                    "temperature": 21.49
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:47",
+                                    "temperature": 13.88
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0289556307857,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 2999.99420028433,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 8333.319944221683,
+                      "size": 7,
+                      "value": -1,
+                      "isLeaf": false
+                    }
+                  ],
+                  "height": 23666.64487230385,
+                  "size": 12,
+                  "value": -1,
+                  "isLeaf": false
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-14 13:44:44",
+                                "temperature": 19.71
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:46",
+                                    "temperature": 19.27
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:45",
+                                    "temperature": 18.04
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0007564497139,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 1666.6673764161133,
+                          "size": 3,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-14 13:44:41",
+                                "temperature": 21.14
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:43",
+                                    "temperature": 18.16
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:42",
+                                    "temperature": 17.97
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0000180499999,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 1666.6714903407635,
+                          "size": 3,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 6333.331603012453,
+                      "size": 6,
+                      "value": -1,
+                      "isLeaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:34",
+                                    "temperature": 20.78
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:33",
+                                    "temperature": 22.93
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0023112473291,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:36",
+                                    "temperature": 17.59
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:35",
+                                    "temperature": 24.72
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0254181269594,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 2999.994065020023,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:38",
+                                    "temperature": 17.77
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:37",
+                                    "temperature": 18.29
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0001351999908,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:40",
+                                    "temperature": 28.66
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:39",
+                                    "temperature": 21.77
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0237357683067,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 3000.0173635828965,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 10999.982175408844,
+                      "size": 8,
+                      "value": -1,
+                      "isLeaf": false
+                    }
+                  ],
+                  "height": 32333.33040211837,
+                  "size": 14,
+                  "value": -1,
+                  "isLeaf": false
+                }
+              ],
+              "height": 112333.30149902901,
+              "size": 26,
+              "value": -1,
+              "isLeaf": false
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-14 13:44:00",
+                                "temperature": 22.63
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-14 13:43:59",
+                                "temperature": 21.32
+                              },
+                              "isLeaf": true
+                            }
+                          ],
+                          "height": 1000.0008580496318,
+                          "size": 2,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:02",
+                                    "temperature": 16.94
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:01",
+                                    "temperature": 16.79
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.00001125,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:04",
+                                    "temperature": 16.7
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:03",
+                                    "temperature": 18.78
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0021631976603,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 3000.00026206283,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 5666.679709528461,
+                      "size": 6,
+                      "value": -1,
+                      "isLeaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-14 13:44:07",
+                                "temperature": 25.02
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:06",
+                                    "temperature": 22.79
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:05",
+                                    "temperature": 21.34
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0010512494474,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 1666.670230946213,
+                          "size": 3,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:11",
+                                    "temperature": 22.26
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:10",
+                                    "temperature": 23.63
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0009384495597,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:09",
+                                    "temperature": 18.32
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:08",
+                                    "temperature": 16.89
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0010224494773,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 3000.016090480863,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 8333.340882130004,
+                      "size": 7,
+                      "value": -1,
+                      "isLeaf": false
+                    }
+                  ],
+                  "height": 28333.32462371191,
+                  "size": 13,
+                  "value": -1,
+                  "isLeaf": false
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:25",
+                                    "temperature": 19.38
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:24",
+                                    "temperature": 17.69
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0014280489803,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:27",
+                                    "temperature": 14.55
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:26",
+                                    "temperature": 21.6
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0248509412154,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 2999.9937413554144,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:32",
+                                    "temperature": 16.74
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:31",
+                                    "temperature": 15.81
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0004324499065,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:28",
+                                    "temperature": 23.2
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-14 13:44:30",
+                                        "temperature": 17.33
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-14 13:44:29",
+                                        "temperature": 17.56
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0000264499996,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 1666.6830037699797,
+                              "size": 3,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 4333.333103788187,
+                          "size": 5,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 13666.661857919786,
+                      "size": 9,
+                      "value": -1,
+                      "isLeaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:20",
+                                    "temperature": 21.7
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:19",
+                                    "temperature": 22.39
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0002380499717,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:23",
+                                    "temperature": 25.67
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-14 13:44:22",
+                                        "temperature": 20.9
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-14 13:44:21",
+                                        "temperature": 18.21
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0036180434548,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 1666.6823201434465,
+                              "size": 3,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 4333.331465798701,
+                          "size": 5,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-14 13:44:16",
+                                    "temperature": 15.31
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-14 13:44:18",
+                                        "temperature": 17.08
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-14 13:44:17",
+                                        "temperature": 16.73
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0000612499981,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 1666.6678405328928,
+                              "size": 3,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-14 13:44:15",
+                                        "temperature": 21.53
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-14 13:44:14",
+                                        "temperature": 20.27
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.000793799685,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-14 13:44:13",
+                                        "temperature": 15.3
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-14 13:44:12",
+                                        "temperature": 17
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.001444998956,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 3000.0129540739094,
+                              "size": 4,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 8333.337217100552,
+                          "size": 7,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 23666.664808387515,
+                      "size": 12,
+                      "value": -1,
+                      "isLeaf": false
+                    }
+                  ],
+                  "height": 72333.31417112831,
+                  "size": 21,
+                  "value": -1,
+                  "isLeaf": false
+                }
+              ],
+              "height": 182333.3048177884,
+              "size": 34,
+              "value": -1,
+              "isLeaf": false
+            }
+          ],
+          "height": 589666.6225641642,
+          "size": 60,
+          "value": -1,
+          "isLeaf": false
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-18 15:18:23",
+                                "temperature": 25.4
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-18 15:18:22",
+                                "temperature": 24.82
+                              },
+                              "isLeaf": true
+                            }
+                          ],
+                          "height": 1000.0001681999859,
+                          "size": 2,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:27",
+                                    "temperature": 18.79
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:26",
+                                    "temperature": 19.21
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0000881999961,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:25",
+                                    "temperature": 17.54
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:24",
+                                    "temperature": 26.11
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0367217757556,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 2999.992903974765,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 5666.671437745448,
+                      "size": 6,
+                      "value": -1,
+                      "isLeaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-18 15:18:28",
+                                "temperature": 18.19
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:30",
+                                    "temperature": 18.53
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:29",
+                                    "temperature": 18.73
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0000199999998,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 1666.6667764666593,
+                          "size": 3,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:34",
+                                    "temperature": 17.03
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:33",
+                                    "temperature": 15.68
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0009112495848,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:32",
+                                    "temperature": 24.17
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:31",
+                                    "temperature": 17.63
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0213855713287,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 3000.0137490319166,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 8333.324080486742,
+                      "size": 7,
+                      "value": -1,
+                      "isLeaf": false
+                    }
+                  ],
+                  "height": 28333.315709719365,
+                  "size": 13,
+                  "value": -1,
+                  "isLeaf": false
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:21",
+                                    "temperature": 18.41
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:20",
+                                    "temperature": 16.89
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0011551993327,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:19",
+                                    "temperature": 22.07
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:18",
+                                    "temperature": 17.48
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0105339945175,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 3000.002653494172,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:14",
+                                    "temperature": 23.55
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-18 15:18:13",
+                                        "temperature": 19.1
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-18 15:18:12",
+                                        "temperature": 23.13
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0081204170294,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 1666.670590061645,
+                              "size": 3,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:17",
+                                    "temperature": 24.46
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-18 15:18:16",
+                                        "temperature": 18.68
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-18 15:18:15",
+                                        "temperature": 20.63
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0019012481927,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 1666.679613772019,
+                              "size": 3,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 6333.325963955659,
+                          "size": 6,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 16333.329821715732,
+                      "size": 10,
+                      "value": -1,
+                      "isLeaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:11",
+                                    "temperature": 16.97
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:10",
+                                    "temperature": 18.17
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0007199997408,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:09",
+                                    "temperature": 19.75
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:08",
+                                    "temperature": 21.59
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0016927985672,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 3000.0036244978664,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:18:02",
+                                    "temperature": 14.16
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-18 15:18:01",
+                                        "temperature": 19.82
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-18 15:18:00",
+                                        "temperature": 19.79
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.00000045,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 1666.6826277706791,
+                              "size": 3,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-18 15:18:04",
+                                        "temperature": 19.64
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-18 15:18:03",
+                                        "temperature": 20.3
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0002177999762,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-18 15:18:07",
+                                        "temperature": 18.41
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [],
+                                          "height": 0,
+                                          "size": 1,
+                                          "value": {
+                                            "date": "2020-05-18 15:18:06",
+                                            "temperature": 16.48
+                                          },
+                                          "isLeaf": true
+                                        },
+                                        {
+                                          "children": [],
+                                          "height": 0,
+                                          "size": 1,
+                                          "value": {
+                                            "date": "2020-05-18 15:18:05",
+                                            "temperature": 18.17
+                                          },
+                                          "isLeaf": true
+                                        }
+                                      ],
+                                      "height": 1000.0014280489803,
+                                      "size": 2,
+                                      "value": -1,
+                                      "isLeaf": false
+                                    }
+                                  ],
+                                  "height": 1666.6674418825169,
+                                  "size": 3,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 4333.335458067689,
+                              "size": 5,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 10333.330292302397,
+                          "size": 8,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 21666.661648678368,
+                      "size": 12,
+                      "value": -1,
+                      "isLeaf": false
+                    }
+                  ],
+                  "height": 80333.31873934683,
+                  "size": 22,
+                  "value": -1,
+                  "isLeaf": false
+                }
+              ],
+              "height": 190999.9742143058,
+              "size": 35,
+              "value": -1,
+              "isLeaf": false
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "height": 0,
+                          "size": 1,
+                          "value": {
+                            "date": "2020-05-18 15:17:33",
+                            "temperature": 19.51
+                          },
+                          "isLeaf": true
+                        },
+                        {
+                          "children": [],
+                          "height": 0,
+                          "size": 1,
+                          "value": {
+                            "date": "2020-05-18 15:17:31",
+                            "temperature": 28.02
+                          },
+                          "isLeaf": true
+                        }
+                      ],
+                      "height": 2000.0181049430528,
+                      "size": 2,
+                      "value": -1,
+                      "isLeaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-18 15:17:25",
+                                "temperature": 21.01
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-18 15:17:24",
+                                "temperature": 14.26
+                              },
+                              "isLeaf": true
+                            }
+                          ],
+                          "height": 1000.0227809905132,
+                          "size": 2,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:27",
+                                    "temperature": 22.33
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:26",
+                                    "temperature": 22.79
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0001057999945,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:29",
+                                    "temperature": 18.82
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:28",
+                                    "temperature": 23.29
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.009990400096,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 2999.9980669689735,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 5666.663692264219,
+                      "size": 6,
+                      "value": -1,
+                      "isLeaf": false
+                    }
+                  ],
+                  "height": 12083.326232560386,
+                  "size": 8,
+                  "value": -1,
+                  "isLeaf": false
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "height": 0,
+                              "size": 1,
+                              "value": {
+                                "date": "2020-05-18 15:17:53",
+                                "temperature": 22.48
+                              },
+                              "isLeaf": true
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:55",
+                                    "temperature": 19.12
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:54",
+                                    "temperature": 20.7
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.001248199221,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 1666.6691883314286,
+                          "size": 3,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:57",
+                                    "temperature": 19.63
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:56",
+                                    "temperature": 20.42
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0003120499513,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:59",
+                                    "temperature": 18.87
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:58",
+                                    "temperature": 27.14
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0341958653214,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 3000.002763060944,
+                          "size": 4,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 8333.321590859723,
+                      "size": 7,
+                      "value": -1,
+                      "isLeaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:44",
+                                    "temperature": 15.04
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:43",
+                                    "temperature": 20.67
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0158483244153,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:47",
+                                    "temperature": 17.31
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-18 15:17:46",
+                                        "temperature": 18.1
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-18 15:17:45",
+                                        "temperature": 18.33
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.0000264499996,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 1666.6670392832896,
+                              "size": 3,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 4333.328661778547,
+                          "size": 5,
+                          "value": -1,
+                          "isLeaf": false
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:49",
+                                    "temperature": 18.53
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:48",
+                                    "temperature": 18.29
+                                  },
+                                  "isLeaf": true
+                                }
+                              ],
+                              "height": 1000.0000287999995,
+                              "size": 2,
+                              "value": -1,
+                              "isLeaf": false
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [],
+                                  "height": 0,
+                                  "size": 1,
+                                  "value": {
+                                    "date": "2020-05-18 15:17:50",
+                                    "temperature": 20.97
+                                  },
+                                  "isLeaf": true
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-18 15:17:52",
+                                        "temperature": 20.58
+                                      },
+                                      "isLeaf": true
+                                    },
+                                    {
+                                      "children": [],
+                                      "height": 0,
+                                      "size": 1,
+                                      "value": {
+                                        "date": "2020-05-18 15:17:51",
+                                        "temperature": 20.61
+                                      },
+                                      "isLeaf": true
+                                    }
+                                  ],
+                                  "height": 1000.00000045,
+                                  "size": 2,
+                                  "value": -1,
+                                  "isLeaf": false
+                                }
+                              ],
+                              "height": 1666.6667350666648,
+                              "size": 3,
+                              "value": -1,
+                              "isLeaf": false
+                            }
+                          ],
+                          "height": 4333.336531309348,
+                          "size": 5,
+                          "value": -1,
+                          "isLeaf": false
+                        }
+                      ],
+                      "height": 16999.996520801877,
+                      "size": 10,
+                      "value": -1,
+                      "isLeaf": false
+                    }
+                  ],
+                  "height": 46999.985298593834,
+                  "size": 17,
+                  "value": -1,
+                  "isLeaf": false
+                }
+              ],
+              "height": 203369.97107211757,
+              "size": 25,
+              "value": -1,
+              "isLeaf": false
+            }
+          ],
+          "height": 614513.3010816986,
+          "size": 60,
+          "value": -1,
+          "isLeaf": false
+        }
+      ],
+      "height": 21071601349.93557,
+      "size": 120,
+      "value": -1,
+      "isLeaf": false
+    }
+  ],
+  "height": 61408927678.862854,
+  "size": 198,
+  "value": -1,
+  "isLeaf": false
+}
